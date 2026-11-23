@@ -49,9 +49,9 @@ grade_calculator/
 | While loop for invalid input | `while True` loop in `get_valid_marks()` repeats until valid; `try/except` catches non-numeric input |
 
 ## Screenshots
-![Valid input]<img width="1366" height="768" alt="valid_input" src="https://github.com/user-attachments/assets/71cab71c-93c7-44f1-b809-8f803869ffc6" />
-![Invalid input handling]<img width="1366" height="768" alt="invalid_input" src="https://github.com/user-attachments/assets/d0b9d7ba-0ffa-4e74-b18c-332efd70f6ed" />
-![Grade F]<img width="1366" height="768" alt="grade_f" src="https://github.com/user-attachments/assets/4bb9232c-471c-4bd8-a8e6-cb10ee76a470" />
+Valid input<img width="1366" height="768" alt="valid_input" src="https://github.com/user-attachments/assets/71cab71c-93c7-44f1-b809-8f803869ffc6" />
+Invalid input handling<img width="1366" height="768" alt="invalid_input" src="https://github.com/user-attachments/assets/d0b9d7ba-0ffa-4e74-b18c-332efd70f6ed" />
+Grade F<img width="1366" height="768" alt="grade_f" src="https://github.com/user-attachments/assets/4bb9232c-471c-4bd8-a8e6-cb10ee76a470" />
 
 ## Testing Evidence
 See `test_cases.txt` for boundary and invalid-input tests. Screenshots above

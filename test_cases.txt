@@ -1,0 +1,18 @@
+TEST CASES - Student Grade Calculator
+
+Input   Expected Grade   Notes
+-----   --------------   -----
+100     A                Upper boundary
+90      A                Boundary
+89      B                Just below A
+80      B                Boundary
+79      C                Just below B
+70      C                Boundary
+69      D                Just below C
+60      D                Boundary
+59      F                Just below D
+0       F                Lower boundary
+-5      Rejected         Re-prompts: "Marks must be between 0 and 100"
+101     Rejected         Re-prompts
+abc     Rejected         Re-prompts: "Please enter a number"
+(empty) Rejected         Re-prompts
